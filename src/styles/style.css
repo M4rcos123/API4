@@ -1,0 +1,51 @@
+body{
+    margin: 0%;
+    background-image: url(../styles/imagem/171682-going_merry-one_piece-thousand_sunny-anime-daytime-1366x768.jpg);
+    color: black;
+}
+
+#titulo{
+    color: black;
+    text-align: center;
+    font-size: 38px;
+}
+#containerSup{
+    display: flex;
+    justify-content: space-between;
+}
+#containerInf{
+    display: flex;
+    justify-content: space-between;
+}
+#container1{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    width: 400px;
+    height: 250px;
+    margin: 10px;
+    margin-left: 120px;
+}
+#container2{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    width: 400px;
+    height: 250px;
+    margin: 10px;
+    margin-right: 120px;
+}
+#container3{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    width: 400px;
+    height: 250px;
+    margin: 10px;
+    margin-left: 120px;
+}
+#container4{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    width: 400px;
+    height: 250px;
+    margin: 10px;
+    margin-right: 120px;
+}
